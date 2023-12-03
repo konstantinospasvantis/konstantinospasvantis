@@ -11,7 +11,7 @@
 <img align="left" alt="Neo-4j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2022/05/Appfolio-Logo-500x281.png" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-500x313.png" />
 <img align="left" alt="LaTex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 
 
