@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Konstantinos.
 I am a passionate mathematicican with my main interest focusing in Data Science and Artificial Intelligence, currently pursuing a Master's Degree at University of Macedonia. Right now, my focus is on crafting my master thesis regarding the fascinating aspect of explainable AI applied to medical images. 
+I have complemented my academic journey with hands-on experience through the completion of multiple projects, where I've excelled in leveraging Python libraries vital for data scientists. My commitment to continuous learning has driven me to explore and apply artificial intelligence in practical settings. I am passionate about pushing the boundaries of my knowledge, always seeking opportunities to acquire new skills that contribute to my personal and professional evolution.
 
 
 
