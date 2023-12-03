@@ -21,7 +21,11 @@ I have complemented my academic journey with hands-on experience through the com
 <br>
 <br />
 
+<br>
+<br />
 
+<br>
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
