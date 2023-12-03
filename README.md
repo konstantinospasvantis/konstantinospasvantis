@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/konstantinos-pasvantis-51300122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konstantinos pasvantis" width="60" /></a>
-<a href="https://www.facebook.com/profile.php?id=100004002373105&locale=el_GR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="κωνσταντινος πασβαντης" width="60" style="margin-right: 10px;" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004002373105&locale=el_GR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="κωνσταντινος πασβαντης" width="60" style="margin-right: 10px" /></a>
 <a href="https://www.instagram.com/kostas_pasvantiss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kostas_pasvantiss" width="60" /></a>
 </p>
 
