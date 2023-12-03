@@ -1,4 +1,6 @@
-### Hi there, I'm Konstantinos👋
+### Hi there 👋, I'm Konstantinos.
+I am a passionate mathematicican with my main interest focusing in Data Science and Artificial Intelligence, currently pursuing a Master's Degree at University of Macedonia. Right now, my focus is on crafting my master thesis regarding the fascinating aspect of explainable AI applied to medical images. 
+
 
 
 ---
