@@ -24,7 +24,8 @@ I have complemented my academic journey with hands-on experience through the com
 <br>
 <br />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
+Feel free to connect with me and share thoughts and interests!
 <p align="left">
 <a href="https://www.linkedin.com/in/konstantinos-pasvantis-51300122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konstantinos pasvantis" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004002373105&locale=el_GR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="κωνσταντινος πασβαντης" width="40" /></a>
